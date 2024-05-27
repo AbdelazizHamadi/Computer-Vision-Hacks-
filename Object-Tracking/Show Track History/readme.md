@@ -20,7 +20,6 @@ in this code you will find a straight forward implementation using the MOT-chall
 
 ### Results 
 
-|Image 1|Image 2|
-|---|---|
-
-|![](res/track_hist1.jpg)|![](res/track_hist2.jpg)|
+| Time frame 1                                                                                                                                    | Time frame 2                                                                                                                                    |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](https://raw.githubusercontent.com/AbdelazizHamadi/Computer-Vision-Hacks-/master/Object-Tracking/Show%20Track%20History/res/track_hist1.png) | ![](https://raw.githubusercontent.com/AbdelazizHamadi/Computer-Vision-Hacks-/master/Object-Tracking/Show%20Track%20History/res/track_hist2.png) |
